@@ -6,3 +6,5 @@ The car controls its forward or backwards velocity with the W and S keys, and ch
 It used a Markov Decision Process to train a neural network on which inputs to use given how far away it was from a check point and walls around it.
 
 A youtube video of it in action: https://www.youtube.com/watch?v=-pNOhC1AK8A&ab_channel=PhilKing
+
+View the bulk of the code under: deepQLearning_Car_with_visualizations.ipynb
